@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="telefoni">
+        <item>Kucni</item>
+        <item>Mobilni</item>
+        <item>Poslovni</item>
+    </string-array>
+
+</resources>
